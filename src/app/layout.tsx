@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "AWS Certification Badge Maker",
-  description: "AWS Certification Badge Maker",
+  title: "AWS認定バッジメーカー",
+  description: "AWSの認定バッジを綺麗に並べます。",
   // OGP
   openGraph: {
     title: 'AWS Certification Badge Maker',
