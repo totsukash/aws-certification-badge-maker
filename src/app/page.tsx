@@ -174,7 +174,7 @@ export default function Home() {
                     ${isSelected ? 'shadow-md scale-102' : 'shadow hover:shadow-sm'}
                   `}
                 >
-                  <div className="flex flex-col items-start space-y-1 w-full">
+                  <div className="flex flex-col items-start space-y-1 w-full text-left">
                     <span className="text-lg font-bold leading-tight">{cert.name}</span>
                     <span className="text-xs leading-tight opacity-90">{cert.description}</span>
                     <span className={`
