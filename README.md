@@ -27,13 +27,13 @@ https://aws-badge-maker.vercel.app/
 URL例:
 
 ```
-https://aws-badge-maker.vercel.app/api/aws?certs=DEA,CLF
+https://badge-studio.vercel.app/api/aws?certs=DEA,CLF
 ```
 
 Githubに埋め込む例:
 
 ```html
-<img src="https://aws-badge-maker.vercel.app/api/aws?certs=DEA,CLF" width="800" height="250" alt="AWS Certifications">
+<img src="https://badge-studio.vercel.app/api/aws?certs=DEA,CLF" width="800" height="250" alt="AWS Certifications">
 ```
 
-<img src="https://aws-badge-maker.vercel.app/api/aws?certs=DEA,CLF" width="800" height="250" alt="AWS Certifications">
+<img src="https://badge-studio.vercel.app/api/aws?certs=DEA,CLF" width="800" height="250" alt="AWS Certifications">
