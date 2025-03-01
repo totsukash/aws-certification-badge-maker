@@ -37,3 +37,4 @@ Githubに埋め込む例:
 ```
 
 <img src="https://badge-studio.vercel.app/api/aws?certs=DEA,CLF" width="800" height="250" alt="AWS Certifications">
+
